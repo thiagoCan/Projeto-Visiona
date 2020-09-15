@@ -1,6 +1,23 @@
 # Projeto-Visiona
 
 
+**QUEM SOMOS**
+
+
+Somos uma equipe de empreendedores que prestam serviços de consultoria de software, 
+melhorando as necessidades da sociedade através da inovação.
+
+**O QUE É INOVAR?**
+
+
+Existem três formas de inovar:
+
+ 1. É disponibilizar um produto ou serviço totalmente inédito;
+ 2. É fazer a mesma coisa existente no mercado com uma funcionalidade diferente;
+ 3. É fazer um produto ou serviço diferente com a mesma funcionalidade dos já existentes.
+
+
+
 
 **O QUE FAZER?**
 
