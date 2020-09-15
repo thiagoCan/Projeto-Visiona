@@ -55,28 +55,28 @@ Os níveis hierárquicos de mais alto nível para o mais baixo são o estratégi
 
 **ESTRATÉGICO**
 
- Organização = 36%
- Planejamento = 28%
- Direção = 22%
- Controle = 14%
+ Organização = 36%|
+ Planejamento = 28%|
+ Direção = 22%|
+ Controle = 14%|
 
 
 
 **TÁTICO**
 
-Direção = 36%
-Organização = 33%
-Planejamento = 18%
-Controle = 13%
+Direção = 36%|
+Organização = 33%|
+Planejamento = 18%|
+Controle = 13%|
 
 
 
 **OPERACIONAL**
 
-Direção = 51%
-Organização = 24%
-Planejamento = 15%
-Controle = 10%
+Direção = 51%|
+Organização = 24%|
+Planejamento = 15%|
+Controle = 10%|
 
 
 
