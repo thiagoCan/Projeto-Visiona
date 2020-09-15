@@ -17,7 +17,47 @@ Existem três formas de inovar:
  3. É fazer um produto ou serviço diferente com a mesma funcionalidade dos já existentes.
 
 
+**NOSSA ORGANIZAÇÃO**
 
+
+Todos os integrantes se juntaram por termos o mesmo interesse frente a uma adversidade, com isso nós nos tornamos mais coesos. Dois pontos-chave levados em consideração são a eficiência e eficácia. Eles são a base de uma equipe em manter-se unida. Nossa estrutura seguira a pirâmide administrativa segmentada em três  nível de maior hierarquia para a menor. Níveis estratégicos, tático, operacional.
+
+**EFICIÊNCIA E EFICÁCIA**
+
+
+A eficiência precede a eficácia, mas ambas não existem de forma isolada. A eficiência é atingir os objetivos com o mínimo de recursos possíveis; a eficácia é escolher os objetivos corretos. Dessas palavras expande-se o conceito de administrar para o planejamento,  organização, direção e controle.
+
+**PLANEJAR, ORGANIZAR DIRIGIR E CONTROLAR**
+
+ 
+O planejamento especifica os objetivos a serem seguidos, o que é uma característica forte da eficácia. Organizar é a distribuição de tarefas e recursos entre os membros. Dirigir é estabelecer meios de comunicação evitar ruídos, algo que interfira na comunicação e trabalhar para o bem-estar da equipe, sinergia, e reduzir conflitos, entropia. O controle garante que os objetivos estão sendo atingidos, a eficiência tem seu papel aqui.
+
+**PIRÂMIDE ADMINISTRATIVA**
+
+Os níveis hierárquicos de mais alto nível para o mais baixo são o estratégico, tático e organizacional. O nível estratégico é a comunicação da organização com o meio externo. Sua função é interpretar as necessidades da população e elaborar estratégias para a solução de problemas, este é um ponto forte nesta posição. O nível tático traduz a estratégia em prática para ser executada pelo nível organizacional, a direção é um ponto forte aqui. O nível operacional é a coordenação em curto prazo com a efetivação da prática.
+
+**ESFORÇO POR NÍVEL**
+
+**ESTRATÉGICO**
+
+ Organização = 36%
+ Planejamento = 28%
+ Direção = 22%
+ Controle = 14%
+
+**TÁTICO**
+
+Direção = 36%
+Organização = 33%
+Planejamento = 18%
+Controle = 13%
+
+**OPERACIONAL**
+
+Direção = 51%
+Organização = 24%
+Planejamento = 15%
+Controle = 10%
 
 
 **O QUE FAZER?**
