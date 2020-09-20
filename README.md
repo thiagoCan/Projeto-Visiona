@@ -95,4 +95,4 @@ Será aplicado o processo de desenvolvimento de software visto na engenharia de 
 
 <h3>Sprints </h3>
 
-[Sprint 1](https://github.com/thiagoCan/Projeto-Visiona/tree/caiquesjc-sprint-1)
+[Sprint 1](https://github.com/thiagoCan/Projeto-Visiona/tree/patch-1)
