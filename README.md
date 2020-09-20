@@ -15,9 +15,9 @@ melhorando as necessidades da sociedade através da inovação.
 
 **Product Owner** -> Alexandre da Silva Santos;
 
-**Scrum Team** -> Caique Miguel Silverio Nascimento;
-                  João Pedro Apse Paes;
-                  Frederico Rabelo.
+**Scrum Team** -> Caique Miguel Silverio Nascimento|
+                  João Pedro Apse Paes|
+                  Frederico Rabelo|
 
 
 
