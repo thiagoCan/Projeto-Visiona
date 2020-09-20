@@ -11,13 +11,13 @@ melhorando as necessidades da sociedade através da inovação.
 
 **EQUIPE:**
 
-**Scrum Master** -> Thiago Fernandes Canonici;
+  **Scrum Master** -> Thiago Fernandes Canonici;
 
-**Product Owner** -> Alexandre da Silva Santos;
+  **Product Owner** -> Alexandre da Silva Santos;
 
-**Scrum Team** -> Caique Miguel Silverio Nascimento |
-                  João Pedro Apse Paes |
-                  Frederico Rabelo |
+  **Scrum Team** -> Caique Miguel Silverio Nascimento |
+                    João Pedro Apse Paes |
+                    Frederico Rabelo |
 
 
 
