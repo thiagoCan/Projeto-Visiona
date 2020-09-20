@@ -9,6 +9,16 @@
 Somos uma equipe de empreendedores que prestam serviços de consultoria de software, 
 melhorando as necessidades da sociedade através da inovação.
 
+**EQUIPE:**
+
+**Scrum Master** -> Thiago Fernandes Canonici;
+
+**Product Owner** -> Alexandre da Silva Santos;
+
+**Scrum Team** -> Caique Miguel Silverio Nascimento;
+                  João Pedro Apse Paes;
+                  Frederico Rabelo.
+
 
 **O QUE É INOVAR?**
 
