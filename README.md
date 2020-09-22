@@ -17,7 +17,7 @@ Desenvolver sistema web "mini-ETL", do inglês Extract Transform Load, com inter
 
 ## Cards Sprints
 
-![](https://github.com/thiagoCan/Projeto-Visiona/blob/patch-1/TelaLogin/cards_sprint1.png?raw=true) 
+<img width="400" src="https://github.com/thiagoCan/Projeto-Visiona/blob/patch-1/TelaLogin/cards_sprint1.png?raw=true"></img> 
 
 ## Sprints
 [Sprint 1](https://github.com/thiagoCan/Projeto-Visiona/tree/patch-1)
