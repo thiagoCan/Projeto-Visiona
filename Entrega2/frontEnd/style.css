@@ -1,0 +1,38 @@
+.main{
+background-color: #7a8abd;
+height: 19rem;
+width:42rem;
+border-radius: 15px;
+margin-top: 130px;
+}
+.icone{
+max-width: 10%;
+margin-right: 10px;
+
+}
+input[type="file"] {
+    display: none;
+}
+
+
+#btnPos{
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+.btn{
+height: 60px;
+width: 200px;
+border-radius: 100px;
+background-color: #fdfffc;
+border:  0.3px black solid;
+font-family: sans-serif, 'Times New Roman', Times, serif;
+font-size: 1.3rem;
+}
+.btn:hover{
+background-color: lightgray;
+}
+.btn:focus, btn:active {
+    outline: none;
+}
